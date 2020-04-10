@@ -3128,7 +3128,7 @@ input, select, textarea {
 	}
 
 		body.is-preload .banner.onload-image-fade-up .image img {
-			opacity: 0;
+			opacity: 1;
 		}
 
 	.banner.onload-image-fade-down .image {
